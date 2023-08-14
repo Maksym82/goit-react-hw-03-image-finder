@@ -1,4 +1,6 @@
 import PropTypes from 'prop-types';
+import { ImageGalleryList } from './ImageGallery.styled';
+import ImageGalleryItem from 'components/ImageGalleryItem/ImageGalleryItem';
 
 export default function ImageGallery({ images, openModal }) {
   return (
