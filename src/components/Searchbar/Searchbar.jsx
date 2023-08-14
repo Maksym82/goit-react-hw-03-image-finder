@@ -27,7 +27,7 @@ export default class Searchbar extends Component {
             <Header>
                 <SearchForm onSubmit = {this.onSubmit}>
                     <SearchFormButton type= 'submit'>
-                        <StyleBiSearchAlt/>
+                        <StyledBiSearchAlt/>
                     </SearchFormButton>
 
                     <SearchFormInput
