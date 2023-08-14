@@ -3,6 +3,7 @@ import { Component } from 'react';
 import { Container } from './App.styled';
 import Searchbar from '../Searchbar/Searchbar';
 import ImageGallery from '../ImageGallery/ImageGallery'
+import Button from '../Button/Button'
 
 
 
