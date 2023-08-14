@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { GalleryItem, GalleryItemImage } from './ImageGalleryItem.styled'
+import { GalleryItem, GalleryItemImage } from './ImageGalleryItem.styled';
 
 
 export default function  ImageGalleryItem({ image, openModal }) {
