@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import PropTypes from 'prop-types';
 import {
-    Header, SearchForm, SearchFormButton, SearchFormInput, StyleBiSearchAlt,
+    Header, SearchForm, SearchFormButton, SearchFormInput, StyledBiSearchAlt,
 } from './Searchbar.styled';
 
 
