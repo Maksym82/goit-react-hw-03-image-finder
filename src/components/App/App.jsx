@@ -35,7 +35,7 @@ export  class App extends Component {
 
   openModal = id => {
     this.setState({ isLoading: true });
-    const LargeImage = this.state.images.find(image => image.id === id);
+    const largeImage = this.state.images.find(image => image.id === id);
 
     setTimeout(() => {
       this.setState({
